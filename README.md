@@ -1,0 +1,2 @@
+# ariona
+minimal os.
